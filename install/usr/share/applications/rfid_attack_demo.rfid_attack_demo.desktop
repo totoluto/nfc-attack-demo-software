@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=RFID Attack Demo
+Comment=Demo application for RFID
+Exec=/usr/local/bin/refid_attack_demo
+Icon=rfid_attack_demo
+Terminal=false
+Categories=Utility;

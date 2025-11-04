@@ -1,0 +1,9 @@
+Package: rfid-attack-demo
+Version: 1.2
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libc6, libgtk-3-0
+Maintainer: totoluto (On GitHub)
+Description: Demo program for RFID attack
+ A demo application using GTK3 and libserialport for RFID experiments.
