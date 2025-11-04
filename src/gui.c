@@ -1,3 +1,11 @@
+/**
+* @file gui.c
+* @brief gui.c implements the graphical user interface functionalities for the RFID Attack Demo application.
+* @author totoluto
+* @date 28.10.2025
+* @version 1.0
+**/
+
 #include "gui.h"
 #include "serial.h"
 

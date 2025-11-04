@@ -1,3 +1,11 @@
+/**
+* @file main.c
+* @brief main.c is the entry point for the RFID Attack Demo application.
+* @author totoluto
+* @date 28.10.2025
+* @version 1.0
+**/
+
 #include "serial.h"
 #include "gui.h"
 

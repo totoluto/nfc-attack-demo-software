@@ -1,3 +1,11 @@
+/**
+* @file serial.c
+* @brief serial.c provides serial communication functionalities for the RFID Attack Demo application.
+* @author totoluto
+* @date 28.10.2025
+* @version 1.0
+**/
+
 #include "serial.h"
 #include <stdio.h>
 #include <string.h>
