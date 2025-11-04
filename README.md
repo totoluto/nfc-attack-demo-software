@@ -4,6 +4,8 @@ This small demo app implements a GUI for interacting with RFID hardware and demo
 
 Important: This repository contains code that can interact with RFID readers/writers. Use it only on hardware and systems you own or have explicit permission to test. Do not use this code for unauthorized access or illegal activities.
 
+The software for the arduino can be found [here.](https://github.com/totoluto/nfc-attack-demo-arduino)
+
 ## Quick summary / contract
 - Input: serial device (e.g. `/dev/ttyUSB0`) and a connected RFID reader/writer
 - Output: interactive GTK3 GUI for performing read/clone/demo operations
